@@ -1,0 +1,12 @@
+TextEditor dan Storage
+-user memasukan nama file kemudia klik "open",jika file tersebut belum tersimpan, maka
+akan muncul popup "file tidak ditemukan". jika file sudah disimpan, drop down list dari seluruh file yang tersimpan.
+-save = berfungsi untuk menyimpan file baru yang sudah dibuat
+-delete = berfungsi untuk menghapus file yang dibuat
+-clear = membersihkan file / mengkosongkan file yang sedang di buat
+-exit = keluar dari aplikasi
+
+ Saved Instance dan Shared Preference
+- tombol tambah =  angka + 1
+- tombol warna(Hitam, Merah, Biru, dan Hijau)= mengganti backround color
+- tomobol reset = mengulaang kembali dari 0 dan color menjadi putih kembali
